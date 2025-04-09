@@ -60,7 +60,7 @@ LOG_GROUP_ID = getenv("LOG_GROUP_ID", "").strip()
 
 # Your User ID.
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "6972508083").split())
+    map(int, getenv("OWNER_ID", "7861988028").split())
 )  # Input type must be interger
 
 # Get it from http://dashboard.heroku.com/account
